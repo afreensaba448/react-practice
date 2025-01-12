@@ -6,6 +6,8 @@ class Cbc  extends Component{
         return(
             <div>
                 <h1>i am New CBC  components</h1>
+                <h1>Login</h1>
+
             </div>
         );
     }
