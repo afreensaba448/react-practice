@@ -5,7 +5,7 @@ class Cbc  extends Component{
     render (){
         return(
             <div>
-                <h1>i am cbc components</h1>
+                <h1>i am New CBC  components</h1>
             </div>
         );
     }
